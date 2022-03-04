@@ -1,0 +1,16 @@
+Note to run the code
+
+1. please open all files in vs code and save all files
+
+**please run AppMenu.py file only
+
+2. There is no food added in backend you have to add by using admin loggin
+3. please use admin accounts as
+ a. Id: admin01  password : qwerty@2022
+ b. Id: admin02  password : aabbcc@2022
+
+4. you can create your own user id and password from user end uses
+
+Lets Run the code have fun (please login as admin first and add foods)
+
+thanks
